@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @X448NAX
 - 👀 I’m interested in making things that are useful to me and, hopefully, to you as well.
-- 🌱 I’m currently learning mobile app development, specifically Dart/Flutter.
+- 🌱 I’m currently learning mobile app development, specifically Dart/Flutter, as well as Python and JS.
 - 💞️ I’m looking to collaborate on privacy and cryptocurrency projects.
 - 📫 How to reach me: [Keyoxide](https://keyoxide.org/wkd/X448NAX%40xanny.family) or [Keybase.](https://keybase.io/thexanman)
 
