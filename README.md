@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @X448NAX
-- 👀 I’m interested in making things that are useful to me and, hopefully, to you as well.
 - 🌱 I’m currently learning mobile app development, specifically Dart/Flutter, as well as Python and JS.
-- 💞️ I’m looking to collaborate on privacy and cryptocurrency projects.
+- 🔒 I’m interested in privacy focused Python projects and am working on a couple of my own to release shortly.
+- 👀 I tend to use [my gists](https://gist.github.com/X448NAX) as a mini blog for documenting useful stuff for me to look back at later and hopefully helps others too.
 - 📫 How to reach me: [Keyoxide](https://keyoxide.org/hkp/A1E987C6A8AA5EA031411AAF70FEEBB21535B6FA) or [Keybase.](https://keybase.io/thexanman)
 
 <!---
